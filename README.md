@@ -1,5 +1,7 @@
 # ABM-Mod-Innovations
 
+<img width="976" alt="Screenshot 2025-04-11 at 14 35 07" src="https://github.com/user-attachments/assets/211f509a-64c5-47da-972b-29ea4e919ded" />
+
 Online repository of the article "Modeling Innovations: Levels of Complexity in the Discovery of Novel Scientific Methods"
 
 Ferraz-Caetano, José. 2025. "Modeling Innovations: Levels of Complexity in the Discovery of Novel Scientific Methods" Philosophies 10, no. 1: 1. https://doi.org/10.3390/philosophies10010001
